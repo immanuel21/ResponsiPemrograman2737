@@ -1,0 +1,11 @@
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).exe
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).deps.json
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).runtimeconfig.json
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).runtimeconfig.dev.json
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).dll
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\bin\Debug\netcoreapp3.1\ResponsiPemrograman(2737).pdb
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\obj\Debug\netcoreapp3.1\ResponsiPemrograman(2737).csprojAssemblyReference.cache
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\obj\Debug\netcoreapp3.1\ResponsiPemrograman(2737).AssemblyInfoInputs.cache
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\obj\Debug\netcoreapp3.1\ResponsiPemrograman(2737).AssemblyInfo.cs
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\obj\Debug\netcoreapp3.1\ResponsiPemrograman(2737).dll
+C:\Users\Yofi\source\repos\ResponsiPemrograman(2737)\ResponsiPemrograman(2737)\obj\Debug\netcoreapp3.1\ResponsiPemrograman(2737).pdb
